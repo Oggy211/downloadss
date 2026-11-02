@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+QWERTYUIOPASDFGHJKLZXCVBNM\nHELLO
+
+Expected output contains:
+Encrypted: ITSSG

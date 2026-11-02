@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+11\n17\n7\n9
+
+Expected output contains:
+Ciphertext:

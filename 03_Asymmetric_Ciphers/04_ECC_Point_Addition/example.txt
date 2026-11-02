@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+(No input required)
+
+Expected output contains:
+2P:

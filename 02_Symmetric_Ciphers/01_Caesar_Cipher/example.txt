@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+HELLO\n3
+
+Expected output contains:
+Encrypted: KHOOR

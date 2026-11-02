@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+ATTACKATDAWN\nLEMON
+
+Expected output contains:
+Encrypted: LXFOPVEFRNHR

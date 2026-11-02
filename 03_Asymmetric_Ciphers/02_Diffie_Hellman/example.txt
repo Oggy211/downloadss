@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+23\n5\n6\n15
+
+Expected output contains:
+Alice shared: 2

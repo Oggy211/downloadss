@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+48\n18
+
+Expected output contains:
+GCD = 6

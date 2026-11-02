@@ -1,0 +1,10 @@
+if __name__ == "__main__":
+    p = int(input("Prime modulus p: "))
+    g = int(input("Generator g: "))
+    a = int(input("Alice private exponent: "))
+    b = int(input("Bob private exponent: "))
+    A = pow(g,a,p)
+    B = pow(g,b,p)
+    print("Alice public:", A, "Bob public:", B)
+    print("Alice shared:", pow(B,a,p))
+    print("Bob shared:", pow(A,b,p))

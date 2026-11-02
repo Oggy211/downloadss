@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+3\n11
+
+Expected output contains:
+Inverse = 4

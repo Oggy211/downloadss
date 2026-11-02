@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+3 3 2 5\nHI
+
+Expected output contains:
+Encrypted: TC

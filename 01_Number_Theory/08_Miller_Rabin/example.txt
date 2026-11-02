@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+17
+
+Expected output contains:
+Probably prime: True

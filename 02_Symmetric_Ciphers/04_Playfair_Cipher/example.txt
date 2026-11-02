@@ -1,0 +1,5 @@
+Example input (one line per prompt):
+MONARCHY\nINSTRUMENTS
+
+Expected output contains:
+Encrypted:
